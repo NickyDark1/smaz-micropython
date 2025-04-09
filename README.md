@@ -60,7 +60,7 @@ print("Compression ratio: {:.2f}%".format(len(compressed)/len(text) * 100))
 print("Decompressed: {}".format(decompressed))
 ```
 
-## Test Function
+## Test
 
 The library includes a test function that you can run to verify its operation:
 
