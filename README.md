@@ -132,6 +132,10 @@ Ratio de compresión: 0.62
 '''
 ```
 
+## Colab create table decode:
+```
+https://colab.research.google.com/drive/1x_80R0508hd8V_3Xgqni58dqopvPk0Wg#scrollTo=I4y1c3nXk-zm
+```
 This will run compression and decompression tests on several example strings, showing statistics about performance.
 
 ## Limitations
