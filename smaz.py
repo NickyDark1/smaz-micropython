@@ -4,6 +4,7 @@ Adaptado del port Python por Max Smith
 Original SMAZ por Salvatore Sanfilippo
 
 BSD license por implementación original: https://github.com/antirez/smaz
+https://github.com/CordySmith/PySmaz/tree/master
 """
 
 class Smaz:
