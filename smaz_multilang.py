@@ -297,7 +297,7 @@ def test():
             
             print("Descomprimido: {0}".format(decompressed))
             ratio = len(compressed)/len(s) * 100
-            print("Ratio de compresión: {0:.2f}%".format(ratio))
+            print("Ratio de compresión: {0:.2f}".format(ratio))
             
             # Verificar si la descompresión tuvo éxito
             if decompressed != s:
